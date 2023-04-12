@@ -16,6 +16,8 @@ public class demo {
 			System.out.println(title);
 			//Thread.sleep(2000);
 			//driver.close();
+			System.out.println();
+			System.out.println();
 			
 		}
 	}
